@@ -24,4 +24,4 @@
 > add these lines of code to the xinit thing (feh needed)
 feh --bg-scale ~/wp.jpg
 exec dwm
-
+-----
