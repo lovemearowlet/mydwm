@@ -2,6 +2,7 @@
 -----
 ## Stuff in it:
 > dwmblocks
+> slstatus
 > dmenu
 > dwm (obv)
 > wallpaper
@@ -12,12 +13,12 @@
 ## how to install
 > (script comming soon prob)
 > add everything to home dir (reccomended)
-> do sudo make clean install on the folders
+> do sudo make clean install on the folders (pick slstatus or dwblocks)
 > if u use a login page like sddm or gnomes thing go to the .desktop thing
 > if u use startx go to startx thing
 -----
 ## .desktop
-> 
+> prob comming soon
 
 -----
 ## startx
