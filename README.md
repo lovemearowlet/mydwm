@@ -1,5 +1,8 @@
 # My DW Config
 -----
+## Why u should use it
+> it is simple monochromish and cool. it also is very minimal and small
+-----
 ## Stuff in it:
 > dwmblocks
 > slstatus
@@ -18,7 +21,7 @@
 > if u use startx go to startx thing
 -----
 ## .desktop
-> prob comming soon
+> prob comming soon (idk how to make one lol)
 
 -----
 ## startx
