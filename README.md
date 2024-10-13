@@ -1,7 +1,7 @@
 # My DW Config
 -----
 ## Why u should use it
-> it is simple monochromish and cool. it also is very minimal and small
+> it is simple monochromish and cool. it also is very minimal and small (and it might be a lil bit dated)
 -----
 ## Stuff in it:
 > dwmblocks
